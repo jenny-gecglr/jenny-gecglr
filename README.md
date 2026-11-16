@@ -1,13 +1,13 @@
 ![Hello, I'm Jenny. Welcome.](banner.jpg)
 
-I turn AI, YouTube automation and digital marketing into repeatable workflows. This is where I share the Claude skills and tools I use day to day.
+I turn **AI, YouTube automation and digital marketing** into repeatable workflows. This is where I share the **Claude skills** and tools I use day to day.
 
 ## What I work on
 
-- **AI Agents**: Claude Code workflows with sub-agents and built-in review steps
-- **YouTube Automation**: an end-to-end pipeline from idea to script, visuals and edit
-- **E-Commerce & Digital Marketing**: store, content and ad workflows
-- **Growth**: experiments, measurement, fast learning
+- 🤖 **AI Agents**: Claude Code workflows with sub-agents and built-in review steps
+- 🎬 **YouTube Automation**: an end-to-end pipeline from idea to script, visuals and edit
+- 🛒 **E-Commerce & Digital Marketing**: store, content and ad workflows
+- 📈 **Growth**: experiments, measurement, fast learning
 
 ## How I work
 
@@ -27,12 +27,18 @@ I turn AI, YouTube automation and digital marketing into repeatable workflows. T
 | YouTube | Production-pipeline skills, niche research methods |
 | Marketing | E-commerce and growth workflows |
 
-Repositories are added over time. Each one solves a single problem and can be copied and used as is.
+> Repositories are added over time. Each one solves a single problem and can be copied and used as is.
 
 ## Tools
 
-Claude Code, ChatGPT, Gemini, NotebookLM, Google Flow, Obsidian, Python
+![Claude Code](https://img.shields.io/badge/Claude_Code-4D1C2C?style=for-the-badge&logo=claude&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-582377?style=for-the-badge&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-1F3026?style=for-the-badge&logo=googlegemini&logoColor=white)
+![NotebookLM](https://img.shields.io/badge/NotebookLM-77732C?style=for-the-badge&logoColor=white)
+![Google Flow](https://img.shields.io/badge/Google_Flow-4D1C2C?style=for-the-badge&logoColor=white)
+![Obsidian](https://img.shields.io/badge/Obsidian-582377?style=for-the-badge&logo=obsidian&logoColor=white)
+![Python](https://img.shields.io/badge/Python-1F3026?style=for-the-badge&logo=python&logoColor=white)
 
 ## Connect
 
-[LinkedIn](https://www.linkedin.com/in/esra-caglar-profile), or open an issue on any of my repositories.
+📫 [LinkedIn](https://www.linkedin.com/in/esra-caglar-profile), or open an issue on any of my repositories.
