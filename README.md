@@ -1,4 +1,4 @@
-![Hello, I'm Jenny. Welcome.](banner.jpg)
+![Hello, I'm Jenny. Welcome.](jenny-welcome-cover.jpg)
 
 I turn **AI, YouTube automation and digital marketing** into repeatable workflows. This is where I share the **Claude skills** and tools I use day to day.
 
